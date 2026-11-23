@@ -1,0 +1,6 @@
+{
+  "channel": "@PASTE_CHANNEL_HERE",
+  "source": "https://t.me/s/SOURCE_CHANNEL_NAME",
+  "poll_seconds": 90,
+  "caption_limit": 1000
+}

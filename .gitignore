@@ -1,0 +1,11 @@
+# DealPoller local files - NEVER commit these
+config.json
+state.json
+*.log
+*.pid
+# Telegram session files must never enter this repo
+*.session
+*.session-journal
+private/
+__pycache__/
+.DS_Store
